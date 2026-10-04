@@ -35,8 +35,7 @@ You will get instant feedback on lines, word count, and token efficiency score.
 
 ## 📊 Free Community vs. Production Suite (Pro)
 
-| Feature | Starter Kit (Free) | [Production Suite (Pro)](   https://antigravity-studio.lemonsqueezy.com/checkout/buy/467c7144-8964-45ec-be26-92c8e2709f00
-   ) |
+| Feature | Starter Kit (Free) | [Production Suite (Pro)](https://antigravity-studio.lemonsqueezy.com/checkout/buy/467c7144-8964-45ec-be26-92c8e2709f00) |
 | :--- | :---: | :---: |
 | **Lean Core AGENTS.md Template** | ✅ Yes (<40 lines) | ✅ Advanced Architecture |
 | **CLI Token Inspector** | ✅ Basic CLI | ✅ Full Weekly Tracker & DB |
@@ -47,8 +46,7 @@ You will get instant feedback on lines, word count, and token efficiency score.
 | **1-Click Suite Installer (`install.sh`)** | ❌ | ✅ Yes (Global & Workspace) |
 | **Direct Author Updates & Support** | ❌ | ✅ Lifetime Updates & Discord |
 
-👉 **[Upgrade to AntiGravity Production Suite on Lemon Squeezy](   https://antigravity-studio.lemonsqueezy.com/checkout/buy/467c7144-8964-45ec-be26-92c8e2709f00
-   )** to get the entire multi-agent infrastructure ready for production!
+👉 **[Upgrade to AntiGravity Production Suite on Lemon Squeezy](https://antigravity-studio.lemonsqueezy.com/checkout/buy/467c7144-8964-45ec-be26-92c8e2709f00)** to get the entire multi-agent infrastructure ready for production!
 
 ---
 
