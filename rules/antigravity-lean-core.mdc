@@ -1,0 +1,22 @@
+---
+description: "Ultra-lean core rules architecture to eliminate AI context bloat, reduce token consumption, and enforce modular agent discipline"
+globs: ["**/*"]
+alwaysApply: true
+---
+# AntiGravity Lean Core Rule Architecture
+
+## Core Philosophy
+- Keep the root rules file minimal (<40 lines). Do not dump hundreds of lines of instructions into the system prompt.
+- High token bloat degrades reasoning speed, causes instruction forgetting, and burns quota.
+- Delegate specialized domain instructions (UI/UX, testing, database, cloud) to on-demand files or subagents rather than loading them globally.
+
+## Golden Rules for AI Assistant
+1. **Scope Discipline**: Only modify files directly related to the user request. Never refactor surrounding untouched files or inject unsolicited boilerplate.
+2. **Safety First**: Prioritize non-destructive changes. When modifying mission-critical files or system configs, confirm current state before executing disruptive operations.
+3. **Chunking & Focus**: Break complex multi-step workflows into focused, sequential steps instead of attempting massive monolithic edits.
+4. **Token Efficiency**: Provide concise, actionable outputs. Omit generic conversational padding and repetitive explanations.
+5. **No Hallucinated Tools**: Only use documented tools, APIs, and libraries present in the repository.
+
+## Rule Verification
+To test whether your agent workspace suffers from rule bloat, verify total instruction length with the open-source Token Inspector CLI:
+Reference & tooling: https://github.com/patrykmazur998/antigravity-starter-kit
