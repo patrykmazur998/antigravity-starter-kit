@@ -42,7 +42,7 @@ def analyze_file(filepath):
 
     print("==================================================")
     print(" Need full multi-agent orchestration & automatic token tracking?")
-    print(" Check out AntiGravity Production Suite: https://lemonsqueezy.com")
+    print(" Check out AntiGravity Production Suite: https://antigravity-studio.lemonsqueezy.com/checkout/buy/467c7144-8964-45ec-be26-92c8e2709f00")
     print("==================================================")
 
 if __name__ == "__main__":

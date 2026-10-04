@@ -8,6 +8,10 @@
 > **Stop letting your AI coding assistant bloat memory and hallucinate after 15 minutes of work.**  
 > The free **AntiGravity Starter Kit** provides a battle-tested, high-efficiency system architecture designed for **Cursor, Windsurf, Claude Code, and Google Antigravity**.
 
+<p align="center">
+  <img src="assets/demo.gif" alt="AntiGravity Token Inspector & Lean Core Demo" width="100%">
+</p>
+
 ---
 
 ## 🚀 The Problem: The "Context Bloat" Trap
