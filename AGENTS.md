@@ -19,4 +19,4 @@
 - Output absolute paths and explicit commands so the user can inspect and run tasks in their terminal.
 
 ---
-*Powered by [AntiGravity Production Suite](https://lemonsqueezy.com) — The professional AI developer toolkit.*
+*Powered by [AntiGravity Production Suite](https://antigravity-studio.lemonsqueezy.com/checkout/buy/467c7144-8964-45ec-be26-92c8e2709f00) — The professional AI developer toolkit.*
